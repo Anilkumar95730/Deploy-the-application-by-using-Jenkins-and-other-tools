@@ -1,10 +1,14 @@
 # Deploy-the-application-by-using-Jenkins
 First of all create a  4 ec2 insatance on aws and connect to every instances.
 EC2 ;
-                      Jenkins
-                      Sonarqube
-                      Nexus
-                      Tomcat
+
+                                Jenkins
+                                
+                                Sonarqube
+                                
+                                Nexus
+                                
+                                Tomcat
 
   ![Screenshot 2024-11-11 185703](https://github.com/user-attachments/assets/ef4fb877-3e71-4a70-bcf6-59bad934c729)
 
@@ -21,11 +25,11 @@ Install the sonarqube on sonarqube server.
 Install the tomcat on tomcat server.
 
 Jenkins pipeline success
-
-![Screenshot 2024-11-11 191913](https://github.com/user-attachments/assets/b085bbcb-5d3c-4bfc-a2d3-dcfc96fb63af)
-Code analysis by sonarqube
 ![Screenshot 2024-11-12 084809](https://github.com/user-attachments/assets/89f05d39-fa8a-4204-a3bc-41b7798273f5)
 
+Code analysis by sonarqube
+
+![Screenshot 2024-11-11 191913](https://github.com/user-attachments/assets/b085bbcb-5d3c-4bfc-a2d3-dcfc96fb63af)
 
 
 finally Access the application on tomcat
