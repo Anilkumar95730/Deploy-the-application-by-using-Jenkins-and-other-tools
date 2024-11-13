@@ -2,10 +2,10 @@
 First of all create a  4 ec2 insatance on aws and connect to every instances.
 EC2 ;
 
-                                Jenkins
-                                Sonarqube
-                                Nexus     
-                                Tomcat
+                    Jenkins
+                    Sonarqube
+                    Nexus     
+                   Tomcat
 
   ![Screenshot 2024-11-11 185703](https://github.com/user-attachments/assets/ef4fb877-3e71-4a70-bcf6-59bad934c729)
 
